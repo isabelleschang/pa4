@@ -1,0 +1,29 @@
+{
+    "id": "2371051E",
+    "path": "~/Desktop/pa4/slides/index.Rmd",
+    "project_path": "slides/index.Rmd",
+    "type": "r_markdown",
+    "hash": "4225887473",
+    "contents": "",
+    "dirty": true,
+    "created": 1680538404698.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "105,3",
+        "scrollLine": "0",
+        "last_setup_crc32": "a4166344b4550869",
+        "chunk_output_type": "console",
+        "rmdVisualMode": "false"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1680531138,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1680531138,
+    "read_only": false,
+    "read_only_alternatives": []
+}
